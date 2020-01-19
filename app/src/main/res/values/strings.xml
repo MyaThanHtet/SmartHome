@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Smart Home</string>
+    <string name="title_home">Home</string>
+    <string name="title_room">Room</string>
+    <string name="title_bucket">RestBin</string>
+    <string name="title_farm">Farm</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fcm_token">FCM Token: %s</string>
+</resources>
